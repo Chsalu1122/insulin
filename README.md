@@ -1,2 +1,2 @@
-# insulin
+# qrcodejs
 Regular Insulin
